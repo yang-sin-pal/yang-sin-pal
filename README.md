@@ -18,7 +18,7 @@ I enjoy exploring how software and infrastructure interact beyond the surface le
 
 ```txt
 Languages: Java, C#, C, JavaScript, HTML, CSS
-Tools: Git, GitHub, VS Code, Visual Studio, AWS
+Tools: Git, GitHub, VS Code, Visual Studio, AWS, Jira
 ```
 
 <img src="https://skillicons.dev/icons?i=cs,java,react,html,css,js,ts" />
